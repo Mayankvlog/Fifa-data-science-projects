@@ -161,20 +161,6 @@ fifa_mlops/
 5. Integration & testing
 6. Deployment & monitoring
 
-## 🤝 Contributing & Support
-
-### Contributing Guidelines
-1. Fork the repository
-2. Create a feature branch
-3. Implement improvements
-4. Submit pull request
-
-### Areas for Contribution
-- Model architecture enhancements
-- Feature engineering improvements
-- UI/UX refinements
-- Documentation updates
-- Bug fixes and optimizations
 
 ## 📝 Disclaimer
 
@@ -190,4 +176,5 @@ If you find this project valuable for your work, please:
 - Star the repository
 - Share with colleagues
 - Provide feedback and suggestions
+
 - Contribute to improvements
