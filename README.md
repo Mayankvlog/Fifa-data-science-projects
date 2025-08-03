@@ -23,7 +23,7 @@ A comprehensive machine learning solution for analyzing and predicting football 
   - Performance visualization
   - Detailed metrics analysis
 
-### 2. Interactive Web Application (`fifa_analysis_app.py`)
+### 2. Interactive Web Application (`app.py`)
 - Real-time player analysis
 - Interactive visualizations
 - Comprehensive stat tracking
@@ -178,3 +178,4 @@ If you find this project valuable for your work, please:
 - Provide feedback and suggestions
 
 - Contribute to improvements
+
